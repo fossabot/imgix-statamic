@@ -1,5 +1,6 @@
 <!-- ix-docs-ignore -->
 ![imgix logo](https://assets.imgix.net/sdk-imgix-logo.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimgix%2Fimgix-statamic.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimgix%2Fimgix-statamic?ref=badge_shield)
 
 `imgix-statamic` is an add-on for integrating [imgix](https://www.imgix.com/) into Statamic sites.
 
@@ -111,3 +112,7 @@ Any imgix method that generates an `img` tag (`image_tag`, `responsive_image_tag
 ## Meta
 
 imgix-statamic was made by [imgix](http://imgix.com). It's licensed under the BSD 2-Clause license (see the [license file](https://github.com/imgix/imgix-statamic/blob/main/license.md) for more info).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimgix%2Fimgix-statamic.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimgix%2Fimgix-statamic?ref=badge_large)
